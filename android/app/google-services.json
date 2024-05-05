@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607435207157",
+    "project_id": "caca-73631",
+    "storage_bucket": "caca-73631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607435207157:android:84f6fa32cab7fa022ff0bc",
+        "android_client_info": {
+          "package_name": "com.example.caca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_tVM3YTb1POlt75gW-6PhEFAVANR1WCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
